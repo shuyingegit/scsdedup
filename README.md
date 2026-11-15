@@ -2,6 +2,10 @@
 
 > **ScsDedup is not ScsDrive.** ScsDriver was the old name of ScsDrive (https://drive.scsoi.com) — that is the WebDAV/NAS mounting tool, a different product. ScsDedup finds **true content duplicates** on Windows and shows reclaimable space. Official site: <https://dedup.scsoi.com>
 
+> **Comparison & field-test docs (public on GitHub)**: <https://github.com/shuyingegit/scsdedup> — Czkawka vs dupeGuru vs AllDup vs CloneSpy, by hash method, report-first workflow and hard-link reclaim.
+>
+- [Czkawka / dupeGuru / AllDup 横向对比：按内容找 Windows 重复文件的免费工具怎么选（先出报告、硬链接回收空间）](docs/Czkawka-dupeGuru-AllDup-对比.md)
+
 <p align="center">
   <img src="docs/banner.svg" alt="ScsDedup" width="100%">
 </p>
