@@ -56,7 +56,7 @@ Simple, stable, report-first.
 - **Filter & sort** — Filter by name / path / type (e.g. `.jpg;png`); sort by reclaimable space.
 - **Export** — HTML / CSV; open folders or copy paths.
 - **8 languages** — Chinese / English / Japanese / Korean / Spanish / French / German / Russian.
-- **Small & ad-free** — Installer ~2.6 MB; no ads.
+- **Small & ad-free** — Installer ~2.6 MiB (2,751,757 bytes in v1.0.38); no ads.
 - **1 free full report + buyout** — One complete analysis free on this PC; buyout unlocks unlimited scans and updates.
 
 ## Pricing
